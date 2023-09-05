@@ -1,5 +1,5 @@
 ### Hi there 👋
-![0_F4t8-xz-b98ZcvEH](https://github.com/Nikita-Mishraa/hello-world/assets/126142419/bc661ad3-ff89-4811-b4b2-3668d0a275e0)
+![0_F4t8-xz-b98ZcvEH](https://github.com/Nikita-Mishraa/hello-world/assets/126142419/bc661ad3-ff89-4811-b4b2-3668d0a275e0)    
 
 
 
