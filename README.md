@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🌷✨Nikita Mishra
+A student, pursuing **BTech CSE**.
+
+- 🌱 I’m currently learning Frontend Development and DSA in Java
+
+  ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=radical)
+
+
 ![0_F4t8-xz-b98ZcvEH](https://github.com/Nikita-Mishraa/hello-world/assets/126142419/bc661ad3-ff89-4811-b4b2-3668d0a275e0)    
 
 
