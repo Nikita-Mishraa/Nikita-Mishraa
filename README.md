@@ -5,8 +5,6 @@ My name is Nikita Mishra, I'm an Indian college student (3rd Semester), currentl
 -  😄 Pronouns: she/her
 
   ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NikitaMishraa&theme=midnight-purple)](https://git.io/streak-stats)
   
 ![](https://komarev.com/ghpvc/?username=NikitaMishraa&color=blueviolet)
 
@@ -21,7 +19,7 @@ My name is Nikita Mishra, I'm an Indian college student (3rd Semester), currentl
 
 <!--
 **Nikita-Mishraa/Nikita-Mishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NikitaMishraa&theme=midnight-purple)](https://git.io/streak-stats) //Github streak counter
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
