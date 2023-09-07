@@ -9,8 +9,6 @@ My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college studen
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-mishra23/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MishraNikita_) 
 
- ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple)
-  
 
 
 ## Technologies :
@@ -28,6 +26,9 @@ My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college studen
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,html,py&theme=dark)](https://skills.thijs.gg) // old icons block ones
 ![](https://komarev.com/ghpvc/?username=NikitaMishraa&color=blueviolet) // profile views
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) // github icon
+![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple) // stats
+  
+
 
 Here are some ideas to get you started:
 
