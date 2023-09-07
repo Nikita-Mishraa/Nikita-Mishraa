@@ -8,7 +8,7 @@ My name is Nikita Mishra, I'm an Indian college student (3rd Semester), currentl
 
 ## Technologies :
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,html,py&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,html,py&theme=dark)](https://skills.thijs.gg)
 
 
 
