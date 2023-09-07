@@ -1,8 +1,10 @@
-### 🌷✨Hello and Welcome Everyone !
-My name is Nikita Mishra, I'm an Indian college student (3rd Semester), I am deeply passionate about Blockchain technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
+### 🌷✨नमस्ते (Namaste) and Welcome Everyone !
+My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college student (3rd Semester), passionate about Blockchain technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
 
-- 🌱 Currently learning Frontend Development and DSA in Java.
--  😄 Pronouns: she/her
+ 😄 Pronouns: she/her
+## Learning :
+- Data Structures and Algorithm
+- Frontend Development  
 
   ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple)
   
