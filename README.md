@@ -4,10 +4,12 @@ My name is Nikita Mishra, I'm an Indian college student (3rd Semester), currentl
 - 🌱 Currently learning Frontend Development and DSA in Java.
 -  😄 Pronouns: she/her
 
-  ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=radical)
+  ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NikitaMishraa&theme=midnight-purple)](https://git.io/streak-stats)
   
 ![](https://komarev.com/ghpvc/?username=NikitaMishraa&color=blueviolet)
+
 ## Technologies :
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,c,html,py&theme=dark)](https://skills.thijs.gg)
