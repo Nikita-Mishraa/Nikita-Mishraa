@@ -1,4 +1,4 @@
-### 🌷✨Hello and Welcome Everyone 
+### 🌷✨Hello and Welcome Everyone !
 My name is Nikita Mishra, I'm an Indian college student (3rd Semester), currently focused on learning DSA and Frontend Development. I am deeply passionate about Blockchain technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
 
 - 🌱 Currently learning Frontend Development and DSA in Java.
