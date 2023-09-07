@@ -1,7 +1,7 @@
-### 🌷✨Nikita Mishra
-A student, pursuing **BTech CSE**.
+### 🌷✨Hello and Welcome Everyone 
+My name is Nikita Mishra, I'm an Indian college student(2nd Year), currently focused on learning DSA and Frontend Development. I am deeply passionate about Blockchain technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
 
-- 🌱 I’m currently learning Frontend Development and DSA in Java
+- 🌱 I’m currently learning Frontend Development and DSA in Java.
 
   ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=radical)
 
