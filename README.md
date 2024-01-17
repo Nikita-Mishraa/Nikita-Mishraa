@@ -1,6 +1,6 @@
 ### 🌷✨नमस्ते (Namaste) and Welcome !
 
-My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college student (3rd Semester), passionate about Blockchain technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
+My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college student (3rd Semester), passionate about Machine Learning and Software technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
 
  - Learning :
    - Data Structures and Algorithm
