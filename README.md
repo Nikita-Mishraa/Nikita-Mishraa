@@ -3,8 +3,8 @@
 My name is *Nikita Mishra* and am 20 years old, I'm an **Indian** college student (3rd Semester), passionate about Machine Learning, Software technology and Open Source Contribution. Looking forward to gain enough knowledge and contribute to the society. Always eager to explore new technologies!!!
 
  - Learning :
-   - Data Structures and Algorithm
-   - Frontend Development
+   Machine Learning
+   - MERN
 
 ## Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-mishra23/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MishraNikita_) 
