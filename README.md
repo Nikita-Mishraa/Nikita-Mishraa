@@ -1,6 +1,6 @@
 ### 🌷✨ Welcome !
 
-A college student, passionate about Software technology and Open Source Contribution. Looking forward to learning and contributing to society.
+A college student, passionate about software technology and open source contribution. Looking forward to learning and contributing to society.
 
 
 ## Connect:
