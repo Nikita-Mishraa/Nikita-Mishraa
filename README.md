@@ -3,10 +3,6 @@
 A college student, passionate about software technology and open source contribution. Looking forward to learning and contributing to society.
 
 
-## Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-mishra23/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MishraNikita_) 
-
-
 
 ## Technologies :
 
@@ -24,7 +20,13 @@ A college student, passionate about software technology and open source contribu
 ![](https://komarev.com/ghpvc/?username=NikitaMishraa&color=blueviolet) // profile views
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) // github icon
 ![NIkita's stats](https://github-readme-stats.vercel.app/api?username=Nikita-Mishraa&show_icons=true&theme=midnight-purple) // stats
-  
+
+
+  ## Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-mishra23/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MishraNikita_) 
+
+
+
 
 
 Here are some ideas to get you started:
